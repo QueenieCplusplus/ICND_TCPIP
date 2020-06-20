@@ -107,7 +107,11 @@ connectionless
 
 * ARP
 
+由已知 IP 位置，尋找 DataLink 層級的位置。
+
 * RARP
+
+由已知 DataLink 層級的位置，找出上層 IP 位置。
 
 
 
