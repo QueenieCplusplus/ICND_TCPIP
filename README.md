@@ -14,7 +14,10 @@
                                           SNMP、DNS）
 
 
-       Level 4          傳輸控制（傳輸）
+       Level 4          傳輸控制（傳輸）  
+       
+                                         （使用 UDP 通訊協定的服務包含：
+                                           SNMP、DNS、FTP、NFS)
 
 
        Level 3          網際網路（網路）
