@@ -223,7 +223,9 @@ to be continued...
 
     router(config-if)# ip address + <ip address> + <subnet-mask>
 
-(3) 設定時，均伴隨子網路遮罩
+(3) 設定時，均伴隨子網路遮罩，其格式設定如下
+
+    router#term ip netmask-format {包含 bit count| decimal| hex}
 
 (4) 主機名稱設定
 
