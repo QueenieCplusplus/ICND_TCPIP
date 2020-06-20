@@ -173,6 +173,8 @@ connectionless
 
 由已知 IP 位置，尋找 DataLink 層級的位置。
 
+(常見於發送端檢查 ARP cache table)
+
 * RARP
 
 由已知 DataLink 層級的位置，找出上層 IP 位置。
