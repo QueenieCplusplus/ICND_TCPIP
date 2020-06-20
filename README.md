@@ -213,6 +213,10 @@ to be continued...
 
 (1) 在交換器介面上設定 IP add 與 Default GW 
 
+    ```
+    switch(congfig)# ip address + <ip address> + <subnet-mask>
+    ```
+
 (2) 在路由器介面上設定 IP add
 
 (3) 設定時，均伴隨子網路遮罩
