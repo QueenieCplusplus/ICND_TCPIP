@@ -205,6 +205,23 @@ https://tools.ietf.org/html/rfc1700
 
 (又稱為 prefix)
 
+to be continued...
+
+# IP set up
+
+常見於網管工作如：
+
+(1) 在交換器介面上設定 IP add 與 Default GW 
+
+(2) 在路由器介面上設定 IP add
+
+(3) 設定時，均伴隨子網路遮罩
+
+(4) 主機名稱設定
+
+(5) 伺服器定義網域名稱
+
+
 
 
 
