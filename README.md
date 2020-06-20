@@ -230,6 +230,7 @@ to be continued...
 (4) 主機名稱設定
 
     router(config-line)# ip host + <name> + <tcp-port-no.> + <ip-add>
+    // 倘若有多個 IP 介面，則一台設備最多可以擁有 8 個不同的位址。
 
 (5) 伺服器定義網域名稱
 
