@@ -229,6 +229,8 @@ to be continued...
 
 (4) 主機名稱設定
 
+    router(config-line)# ip host + <name> + <tcp-port-no.> + <ip-add>
+
 (5) 伺服器定義網域名稱
 
 
