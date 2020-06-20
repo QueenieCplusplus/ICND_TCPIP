@@ -25,6 +25,9 @@
 
 傳輸層服務讓使用者能切割（segment）與重組 (reassemble) 將上層應用程式化成為傳輸層資料流 flux。
 
+* segmentation 
+
+碎片化的好處是讓出入的 payload 較為少，（雖然數量變多），但可節省頻寬。
 
 * end to end
 
