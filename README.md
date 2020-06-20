@@ -124,6 +124,9 @@ connectionless
        /* flags: 標明分段是否發生。*/
        
        /* protocols means UDP or TCP. */
+       
+       /* protocols 欄位可能也標示了第三層通訊協定使用的演算法協定
+       如 OSPF、GRE、EIGRP 
   
        /* Fragment Offst: 為資料分段，使得不同 MTU 可以在網路上傳送 */
 
