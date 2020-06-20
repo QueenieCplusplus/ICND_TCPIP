@@ -245,6 +245,9 @@ to be continued...
     
     router#Google
     
+    router#sh hosts
+    // 查看路由器所學習到的主機名稱和邏輯位置 Mapping
+    
     router# config term
     
 
