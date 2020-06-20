@@ -143,29 +143,29 @@ connectionless
 
 - [x] destionation unreachable
 
-- [x] 
+- [x] time exceeded
 
-- [x] 
+- [x] param problem
 
-- [x] 
+- [x] subnetmask request
 
-- [x] 
+- [x] redirect
 
-- [x] 
+- [x] echo
 
-- [x] 
+- [x] echo reply
 
-- [x] 
+- [x] timestamp
 
-- [x] 
+- [x] timestamp reply
 
-- [x] 
+- [x] info req
 
-- [x] 
+- [x] info reply
 
-- [x] 
+- [x] addr req
 
-- [x] 
+- [x] addr reply
 
 * ARP
 
