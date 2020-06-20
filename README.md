@@ -232,6 +232,9 @@ to be continued...
     router(config-line)# ip host + <name> + <tcp-port-no.> + <ip-add 最多 8 個>
     // 倘若有多個 IP 介面，則一台設備最多可以擁有 8 個不同的位址。
     // host 代表主機或伺服器。
+    
+    router#sh hosts
+    // 查看路由器所學習到的主機名稱和邏輯位置 Mapping
 
 (5) 定義網域名稱伺服器 DNS (NS)
 
@@ -244,9 +247,7 @@ to be continued...
     router(config)# end
     
     router#Google
-    
-    router#sh hosts
-    // 查看路由器所學習到的主機名稱和邏輯位置 Mapping
+  
     
     router# config term
     
