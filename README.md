@@ -114,7 +114,9 @@ connectionless
 由已知 DataLink 層級的位置，找出上層 IP 位置。
 
 
+# Subnet Mask
 
+(又稱為 prefix)
 
 
 
