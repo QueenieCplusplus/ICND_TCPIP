@@ -231,6 +231,7 @@ to be continued...
 
     router(config-line)# ip host + <name> + <tcp-port-no.> + <ip-add>
     // 倘若有多個 IP 介面，則一台設備最多可以擁有 8 個不同的位址。
+    // host 代表主機或伺服器。
 
 (5) 伺服器定義網域名稱
 
