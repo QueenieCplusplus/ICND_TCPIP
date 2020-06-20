@@ -211,13 +211,17 @@ to be continued...
 
 常見於網管工作如：
 
-(1) 在交換器介面上設定 IP add 與 Default GW 
+(1) 在交換器上設定 IP add 與 Default GW 
 
-    ```
+    
     switch(congfig)# ip address + <ip address> + <subnet-mask>
-    ```
+    
+    switch(config)# ip default-gateway + <路由的網路邏輯位址>
+    
 
 (2) 在路由器介面上設定 IP add
+
+    router(config-if)# ip address + <ip address> + <subnet-mask>
 
 (3) 設定時，均伴隨子網路遮罩
 
