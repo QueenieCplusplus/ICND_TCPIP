@@ -8,17 +8,21 @@
 # TCP/IP Protocol Stacks
 
 
-       Level 5          應用層 （包含：FTP、SMTP、
-                                telnet實現虛擬終端機和遠端登入為設備做管理、
-                                SNMP、DNS、）
+       Level 5          應用層 
+                                         （包含：FTP、SMTP、
+                                          telnet實現虛擬終端機和遠端登入為設備做管理、
+                                          SNMP、DNS）
 
 
        Level 4          傳輸控制（傳輸）
 
 
        Level 3          網際網路（網路）
+       
 
        Level 1-2        網路介面
+       
+       
 
 
 # TCP
