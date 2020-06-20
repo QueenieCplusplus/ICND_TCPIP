@@ -177,6 +177,9 @@ connectionless
 
 由已知 DataLink 層級的位置，找出上層 IP 位置。
 
+(常見於 DHCP 的應用)
+
+
 # 通訊協定編號
 
 https://tools.ietf.org/html/rfc1700
