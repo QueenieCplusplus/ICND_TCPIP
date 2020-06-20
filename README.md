@@ -129,6 +129,8 @@ connectionless
        如 OSPF、GRE、EIGRP 
   
        /* Fragment Offst: 為資料分段，使得不同 MTU 可以在網路上傳送 */
+       
+https://tools.ietf.org/html/rfc1700
 
 * ICMP
 
