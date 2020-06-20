@@ -141,6 +141,8 @@ connectionless
 
 用於傳遞錯誤與控制訊息，被應用在所有使用 TCP/IP 的主機上，其封包內包含已定義的資訊和尚未定義的資訊，其中已經定義的資訊如下：
 
+（常見於 ping 指令下，傳送與接收的封包訊息：echo <-> echo reply）
+
 - [x] destionation unreachable
 
 - [x] time exceeded
