@@ -243,6 +243,8 @@ to be continued...
     
     router#Google
     
+    router# config term
+    
 
 
 
