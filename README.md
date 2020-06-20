@@ -229,15 +229,15 @@ to be continued...
 
 (4) 主機名稱設定
 
-    router(config-line)# ip host + <name> + <tcp-port-no.> + <ip-add>
+    router(config-line)# ip host + <name> + <tcp-port-no.> + <ip-add 最多 8 個>
     // 倘若有多個 IP 介面，則一台設備最多可以擁有 8 個不同的位址。
     // host 代表主機或伺服器。
 
-(5) 定義網域名稱伺服器 DNS
+(5) 定義網域名稱伺服器 DNS (NS)
 
     此由 Name Server 名稱伺服器所管理。
     
-    router(config)# ip name
+    router(config)# ip name-server [IP adds...最多 6 個]
 
 
 
