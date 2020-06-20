@@ -238,6 +238,11 @@ to be continued...
     此由 Name Server 名稱伺服器所管理。
     
     router(config)# ip name-server [IP adds...最多 6 個]
+    router(config)# ip domain-lookup
+    router(config)# end
+    
+    router#Google
+    
 
 
 
