@@ -13,10 +13,10 @@
                                 SNMP、DNS、）
 
 
-       Level 4          傳輸控制
+       Level 4          傳輸控制（傳輸）
 
 
-       Level 3          網際網路
+       Level 3          網際網路（網路）
 
        Level 1-2        網路介面
 
