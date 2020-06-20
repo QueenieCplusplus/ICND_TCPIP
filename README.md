@@ -8,7 +8,7 @@
 # TCP/IP Protocol Stacks
 
 
-       Level 5          應用層
+       Level 5          應用層 （包含：FTP、SMTP、telnet、SNMP、DNS、）
 
 
        Level 4          傳輸控制
