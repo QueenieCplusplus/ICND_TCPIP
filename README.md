@@ -235,6 +235,8 @@ to be continued...
 
 (5) 伺服器定義網域名稱
 
+    此由 Name Server 名稱伺服器所管理。
+
 
 
 
