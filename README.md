@@ -54,6 +54,8 @@ TCP 中以兩種協定，一為 TCP，一為 UDP。UDP 與 TCP 不同，沒有�
 
 * Packet (TCP header)
 
+connection-oriented.
+
            +------------+--------------+
            |  SRC Port  ｜   DES Port  ｜
            +------------+--------------+
@@ -78,6 +80,8 @@ TCP 中以兩種協定，一為 TCP，一為 UDP。UDP 與 TCP 不同，沒有�
            
 * Packet (UDP header)
 
+connectionless
+
            +------------+--------------+
            |  SRC Port  ｜   DES Port  ｜
            +--------------+------------+
@@ -96,6 +100,8 @@ TCP 中以兩種協定，一為 TCP，一為 UDP。UDP 與 TCP 不同，沒有�
 # IP
 
 * IP
+
+connectionless
 
 * ICMP
 
