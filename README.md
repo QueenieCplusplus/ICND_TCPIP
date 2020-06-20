@@ -23,6 +23,7 @@
 
 # TCP
 
+傳輸層服務讓使用者能切割（segment）與重組 (reassemble) 將上層應用程式化成為傳輸層資料流 flux。
 
 # IP
 
