@@ -130,6 +130,8 @@ connectionless
   
        /* Fragment Offst: 為資料分段，使得不同 MTU 可以在網路上傳送 */
        
+       /* 選項：包含網路測試與安全。* /
+       
 https://tools.ietf.org/html/rfc1700
 
 * ICMP
