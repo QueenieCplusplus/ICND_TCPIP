@@ -122,8 +122,8 @@ connectionless
        +--------------------------------------+
        
        /* protocols means UDP or TCP. */
-
-
+  
+       /* Fragment Offst: 為資料分段，使得不同 MTU 可以在網路上傳送 */
 
 * ICMP
 
