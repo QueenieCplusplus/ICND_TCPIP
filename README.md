@@ -40,7 +40,7 @@
 
 傳輸層的資料流即為端點（終端）對端點（終端）的傳輸服務（發送端 <-> 接收端）。
 
-* slide window
+* slide window (Congestion Control)
 
 滑窗機制功能為控制流量，協調兩端主機每次傳送的資料量。
 
@@ -87,6 +87,11 @@ TCP 中以兩種協定，一為 TCP，一為 UDP。UDP 與 TCP 不同，沒有�
            +---------------------------+
            
            /* checksum: 標頭與資料欄的計算值。 */
+           
+  * Port
+  
+  
+  * 3-way handshake
 
 # IP
 
