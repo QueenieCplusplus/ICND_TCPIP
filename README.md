@@ -126,7 +126,7 @@ connectionless
        /* protocols means UDP or TCP. */
        
        /* protocols 欄位可能也標示了第三層通訊協定使用的演算法協定
-       如 OSPF、GRE、EIGRP */
+       如 OSPF、GRE、EIGRP ，請詳通訊協定編號*/
        
        /* checksum: 檢查標頭的完整性。 */
   
@@ -134,7 +134,6 @@ connectionless
        
        /* 選項：包含網路測試與安全。* /
        
-https://tools.ietf.org/html/rfc1700
 
 * ICMP
 
@@ -145,6 +144,24 @@ https://tools.ietf.org/html/rfc1700
 * RARP
 
 由已知 DataLink 層級的位置，找出上層 IP 位置。
+
+# 通訊協定編號
+
+https://tools.ietf.org/html/rfc1700
+
+通訊協定名稱                              通訊協定欄位中的編號
+
+ ICMP, Internet Control Msg Protocol              1
+ 
+ IPv6                                            41
+ 
+ IPX                                            111
+ 
+ L2 Tunneling Protocol                          115
+ 
+ IGRP, Interior Gateway Routing Protocol          9
+ 
+ GRE, Generic Routing Encapsulation              47
 
 
 # Subnet Mask
