@@ -143,14 +143,6 @@ connectionless
 
 - [x]
 
-- [x]
-
-- [x]
-
-- [x]
-
-
-
 * ARP
 
 由已知 IP 位置，尋找 DataLink 層級的位置。
